@@ -1603,3 +1603,7 @@ ul {
         display: block;
     }
 }
+
+form {
+    margin: 0;
+}
